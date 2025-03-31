@@ -13,8 +13,8 @@ h1, h2, h3{
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 80px;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 
 h2{
@@ -29,23 +29,11 @@ h3{
 }
 
 #explicacao{
-    text-align: left;
-    margin-left: 200px;
-}
-
-#linhatempodiv{
-    margin-top: -100px;
-    margin-right: 0;
-    margin-left: 600px;
-}
-
-#linhatempo2{
-    margin-bottom: 0;
     text-align: center;
 }
 
-#linhatempo3{
-    margin-top: 0;
+#linhatempo{
+    margin-bottom: 0;
     text-align: center;
 }
 
@@ -54,5 +42,9 @@ h3{
 }
 
 #explicacao:hover{
+    text-shadow: 0 0 20px gray;
+}
+
+#linhatempo:hover{
     text-shadow: 0 0 20px gray;
 }
