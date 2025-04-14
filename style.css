@@ -3,6 +3,8 @@
     margin: 0;
     border: 0;
     padding: 0;
+    list-style: none;
+    text-decoration: none;
 }
 
 article{
@@ -15,7 +17,7 @@ aside{
     float: left;
 }
 
-h1, h2, h3, h4{
+h1, h2, h3, h4, a{
     color: white;
     text-align: center;
 }
