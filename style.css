@@ -82,3 +82,12 @@ h4{
     margin-left: 80px;
     margin-bottom: 0px;
 }
+
+#linha{
+    background-color: white;
+    height: 10px;
+}
+
+#mainlinha{
+    height: 200px;
+}
