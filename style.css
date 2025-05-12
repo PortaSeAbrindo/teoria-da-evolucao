@@ -88,6 +88,36 @@ h4{
     height: 10px;
 }
 
+.linhavertical{
+    background-color: white;
+    width: 10px;
+    height: 100px;
+}
+
+#linha1{
+    margin-left: 200px;
+    float: left;
+}
+
+#linha2{
+    margin-left: 400px;
+    float: left;
+}
+
+#linha3{
+    margin-left: 400px;
+    float: left;
+}
+
+#linha4{
+    margin-left: 800px;
+}
+
+#linha5{
+    margin-left: 400px;
+    float: left;
+}
+
 #mainlinha{
     height: 200px;
 }
