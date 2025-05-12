@@ -121,3 +121,39 @@ h4{
 #mainlinha{
     height: 200px;
 }
+
+#linhadotempo{
+    width: 100%;
+    margin-top: 0px;
+    float: left;
+}
+
+.imagemlinhatempo{
+    width: 300px;
+    margin-left: 200px;
+    float: left;
+}
+
+.imagemlinhatempo:hover{
+    box-shadow: 0 0 50px gray;
+}
+
+#arqueana{
+    margin-left: 50px;
+}
+
+#proterozoica{
+    width: 301px;
+}
+
+#paleozoica{
+    margin-left: 100px;
+}
+
+#mesozoica{
+    width: 310px;
+}
+
+#cenozoica{
+    margin-left: 150px;
+}
