@@ -128,9 +128,13 @@ h4{
     float: left;
 }
 
-.imagemlinhatempo{
+.imagemlinhatempodiv{
     width: 300px;
-    margin-left: 200px;
+    margin-left: 150px;
+    float: left;
+}
+
+.imagemlinhatempo{
     float: left;
 }
 
@@ -139,21 +143,74 @@ h4{
 }
 
 #arqueana{
-    margin-left: 50px;
+    width: 300px;
+    margin-left: 25px;
+    margin-top: 0px;
+}
+
+#arqueana:hover{
+    margin-top: 20px;
 }
 
 #proterozoica{
     width: 301px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 
 #paleozoica{
-    margin-left: 100px;
+    width: 300px;
+    margin-left: 25px;
+    margin-top: 22px;
 }
 
 #mesozoica{
     width: 310px;
+    margin-left: 20px;
+    margin-top: 22px;
 }
 
 #cenozoica{
-    margin-left: 150px;
+    width: 300px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#arqueanadiv{
+    width: 300px;
+    height: 180px;
+    margin-left: 80px;
+}
+
+#arqueanadiv:hover{
+    background-color: white;
+    width: 350px;
+    height: 210px;
+    margin-left: 80px;
+}
+
+#proterozoicadiv{
+    background-color: white;
+    width: 340px;
+    height: 243px;
+}
+
+#paleozoicadiv{
+    background-color: white;
+    width: 350px;
+    height: 210px;
+    margin-left: 80px;
+}
+
+#mesozoicadiv{
+    background-color: white;
+    width: 350px;
+    height: 243px;
+}
+
+#cenozoicadiv{
+    background-color: white;
+    width: 330px;
+    height: 230px;
+    margin-left: 50px;
 }
